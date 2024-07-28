@@ -7,3 +7,5 @@ This algorithm is designed using recursion.
 
 
 
+
+![visualisation](https://github.com/user-attachments/assets/2d0d81b1-6a53-45ba-ace5-77dcbddc0d9e)
